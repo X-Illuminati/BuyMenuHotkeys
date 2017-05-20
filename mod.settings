@@ -1,0 +1,44 @@
+name        = "Buy Menu Hotkeys"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Adds hotkeys to the Alien Evolve menu and Marine Armory/Prototype Lab menu.
+ModID: aa4305e
+
+The large button labels can be disabled by using setting 'HUD Quality' to 'Minimum" or by setting the 'BMHK Label Scale' to 0.
+
+Default Keybindings (change these in the Bindings menu)--
+Alien:
+[list][*]NumPadEnter -- Begin Evolving
+[*]1 -- Select Gorge
+[*]2 -- Select Skulk
+[*]3 -- Select Lerk
+[*]4 -- Select Fade
+[*]5 -- Select Onos
+[*]NumPad9 -- Select Crush
+[*]NumPad6 -- Select Carapace
+[*]NumPad3 -- Select Regeneration
+[*]NumPad8 -- Select Focus (not used in current game mode)
+[*]NumPad5 -- Select Vampirism
+[*]NumPad2 -- Select Aura
+[*]NumPad7 -- Select Adrenaline
+[*]NumPad4 -- Select Celerity
+[*]NumPad1 -- Select Silence[/list]
+Armory:
+[list][*]1 -- Purchase Welder
+[*]2 -- Purchase Mines
+[*]3 -- Purchase Shotgun
+[*]4 -- Purchase Cluster Grenades
+[*]5 -- Purchase Nerve Gas
+[*]6 -- Purchase Pulse Grenades
+[*]7 -- Purchase Grenade Launcher
+[*]8 -- Purchase Flamethrower
+[*]9 -- Purchase Heavy Machine Gun[/list]
+Prototype Lab:
+[list][*]1 -- Purchase Jetpack
+[*]2 -- Purchase Minigun Exo
+[*]3 -- Purchase Railgun Exo
+[*]1 -- Purchase Dual-Exo Upgrade (not used in current game mode)[/list]]=]
+image       = "preview.jpg"
+tag_modtype = "Look and Feel"
+tag_support = "Passes Default Consistency"
+publish_id = "aa4305e"

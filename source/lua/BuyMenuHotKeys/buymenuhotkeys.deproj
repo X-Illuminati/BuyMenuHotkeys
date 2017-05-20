@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>bmhk_Client.lua</filename>
+  </file>
+  <file>
+    <filename>bmhk_ClientHooks.lua</filename>
+  </file>
+  <file>
+    <filename>bmhk_alien.lua</filename>
+  </file>
+  <file>
+    <filename>bmhk_common.lua</filename>
+  </file>
+  <file>
+    <filename>bmhk_marine.lua</filename>
+  </file>
+</project>
