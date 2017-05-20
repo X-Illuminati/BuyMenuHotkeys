@@ -1,3 +1,6 @@
+# output directory
+output/**
+
 # Compiled Lua sources
 luac.out
 
