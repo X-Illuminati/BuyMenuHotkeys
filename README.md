@@ -1,7 +1,10 @@
 # BuyMenuHotkeys
 LUA mod for Natural Selection 2 that adds hotkeys for the alien and marine buy menus.
 Available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=178532446).
+
 ModID: aa4305e
+
+![Mod preview image](preview.jpg)
 
 ## Features
 Configuration options are in the keybinding settings menu.
