@@ -1,3 +1,8 @@
+# Notice
+Feel free to fork the project or include it in your own mods/mod-packs.
+However, no support is provided whatsoever.
+All pull requests and issues posted to this tracker will be ignored.
+
 # BuyMenuHotkeys
 LUA mod for Natural Selection 2 that adds hotkeys for the alien and marine buy menus.
 Available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=178532446).
